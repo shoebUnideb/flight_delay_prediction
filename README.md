@@ -1,18 +1,17 @@
-
  ##Introduction
- This project uses machine learning to predict flight delays based on various factors like weather, airline, and departure time.
- To download the dataset use link : `https://www.kaggle.com/datasets/usdot/flight-delays/data`
+1. This project uses machine learning to predict flight delays based on various factors like weather, airline, and departure time.
+2. To download the dataset use link : `https://www.kaggle.com/datasets/usdot/flight-delays/data`
 
-Install dependencies:  `pip install -r requirements.txt`
-Open the Jupyter Notebook: `jupyter notebook flight_delay_prediction.ipynb`
+1. Install dependencies:  `pip install -r requirements.txt`
+2. Open the Jupyter Notebook: `jupyter notebook flight_delay_prediction.ipynb`
 
 #Features
-Data preprocessing
-Model training and evaluation
-Flight delay prediction
+1. Data preprocessing
+2. Model training and evaluation
+3. Flight delay prediction
 
 #Technologies Used
-Python 🐍
-Scikit-Learn
-Pandas
-NumPy
+1. Python 🐍
+2. Scikit-Learn
+3. Pandas
+4. NumPy
